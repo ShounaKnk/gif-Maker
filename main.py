@@ -1,5 +1,5 @@
 import imageio.v3 as iio
-
+# add yout image file names in the list
 files =[
     'im0.jpg',
     'im1.jpg',
